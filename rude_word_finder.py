@@ -1,4 +1,5 @@
 import string
+#importing string module for the further operaitons 
 rude_words = ["shit", "plot", "dict", "facilitated","2020"]
 file = open("C:\\Users\\215073\\Desktop\\pnc.txt")
 files= file.read()
