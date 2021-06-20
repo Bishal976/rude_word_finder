@@ -1,5 +1,5 @@
 # rude_word_finder 	:cursing_face:  :detective: 
-a python program for finding the rude words in the text!
+A python program for finding the rude words in the text!
 the python program contains two simmiler codes, can be used upon necessicity
 the path of the file can be changed in the code, as per the users file position in his/her system.
 the new rude words can be even added in the code for extending the scope of the code.
